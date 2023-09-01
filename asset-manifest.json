@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tempapp/static/css/main.8fa433d0.css",
+    "main.js": "/Tempapp/static/js/main.ea595979.js",
+    "index.html": "/Tempapp/index.html",
+    "main.8fa433d0.css.map": "/Tempapp/static/css/main.8fa433d0.css.map",
+    "main.ea595979.js.map": "/Tempapp/static/js/main.ea595979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa433d0.css",
+    "static/js/main.ea595979.js"
+  ]
+}
